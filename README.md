@@ -163,3 +163,6 @@ scipy - Statistical functions including Normal CDF
 
 - Financial Mathematics: Hull, J.C. - "Options, Futures and Other Derivatives"
 
+- Veritasium = The Trillion Dollar Equation
+  [YouTube](https://www.youtube.com/watch?v=A5w-dEgIU1M&t=40s&pp=ygUZdHJpbGxpb24gZG9sbGFyIGVxdWF0aW9uIA%3D%3D)
+
