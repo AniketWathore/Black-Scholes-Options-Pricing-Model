@@ -10,14 +10,18 @@ Black-Scholes Options Pricing Model for European Options with Option Greeks. Thi
 ## 📋 Project Description
 
 This project implements the Black-Scholes-Merton model for pricing European-style options. It features an intuitive web interface built with Streamlit that allows users to:
-- Calculate theoretical prices for call and put options
+- Real Time Options Prices Calculations for call and put option
 - Visualize Option Greeks (Delta, Gamma, Theta, Vega, Rho)
 - Analyze how option prices change with underlying parameters
 - Understand the sensitivity of options to various market factors
 
 ## 🧮 Black-Scholes Model
 
-The Black-Scholes model, also known as the Black-Scholes-Merton (BSM) model, is a fundamental concept in modern financial theory. This mathematical equation estimates the theoretical value of derivatives, accounting for the impact of time and other risk factors.
+ The Black-Scholes model, also known as the Black-Scholes-Merton (BSM) model, is one of the most important concepts in modern financial theory. It determines the fair value of an options contract.
+
+This mathematical equation estimates the theoretical value of derivatives based on other investment instruments. It considers the impact of time and other risk factors in its calculation.
+
+It was developed in 1973 and is still regarded as one of the best ways to price an options contract. 
 
 ### Model Inputs
 The Black-Scholes equation requires five primary variables:
