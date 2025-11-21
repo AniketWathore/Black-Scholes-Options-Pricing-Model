@@ -156,9 +156,10 @@ scipy - Statistical functions including Normal CDF
 ## 📖 Sources and References
 
 - Black-Scholes Model Explanation: Wikipedia and Investopedia
+[Investopedia](https://www.investopedia.com/terms/b/blackscholes.asp)
+[Wikipedia](https://en.wikipedia.org/wiki/Black%E2%80%93Scholes_model)
 
 - Formula References: Macroption
 
 - Financial Mathematics: Hull, J.C. - "Options, Futures and Other Derivatives"
 
-  <a herf = "https://www.investopedia.com/terms/b/blackscholes.asp"> Investopedia </a>
