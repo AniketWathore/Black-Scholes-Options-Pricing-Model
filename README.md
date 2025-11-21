@@ -23,9 +23,6 @@ This mathematical equation estimates the theoretical value of derivatives based 
 
 It was developed in 1973 and is still regarded as one of the best ways to price an options contract. 
 
-<img src="[path-or-url-to-image](https://www.investopedia.com/thmb/AkueFpkoJA7o8XcwOJrz5KT0NkI=/1280x0/filters:no_upscale():max_bytes(150000):strip_icc()/BlackScholesMerton-56a6d22e3df78cf772906866.png
-)" alt="BSM Model" width="600"/>
-
 ### Model Inputs
 The Black-Scholes equation requires five primary variables:
 - **Volatility (σ)** - The volatility of the underlying asset
@@ -164,3 +161,4 @@ scipy - Statistical functions including Normal CDF
 
 - Financial Mathematics: Hull, J.C. - "Options, Futures and Other Derivatives"
 
+  <a herf = "https://www.investopedia.com/terms/b/blackscholes.asp"> Investopedia </a>
